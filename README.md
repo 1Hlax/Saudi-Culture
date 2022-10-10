@@ -2,5 +2,5 @@
 Saudi Culture for iOS built with SwiftUI
 
 
-### Installing
+### Dependencies
 Your device must be Mac and run it on xcode

@@ -6,6 +6,3 @@ Saudi Culture for iOS built with SwiftUI
 - Your device must be Mac 
 - You must run it on xcode
 
-### License
-
-This project is licensed under the [GROUP 33] License 

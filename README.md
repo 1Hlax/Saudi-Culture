@@ -7,11 +7,30 @@ Saudi Culture for iOS built with SwiftUI
 - You must run it on xcode
 
 
-![Simulator Screen Shot - iPhone 12 Pro - 2022-10-10 at 17 36 05](https://user-images.githubusercontent.com/42190049/194890997-22302375-6a6f-4aad-9098-d4f08120ceaf.png)
-![Simulator Screen Shot - iPhone 12 Pro - 2022-10-10 at 17 36 28](https://user-images.githubusercontent.com/42190049/194891074-cfc62c9f-21d2-4c40-ac60-88c7a58e64c8.png)
-![Simulator Screen Shot - iPhone 12 Pro - 2022-10-10 at 17 36 39](https://user-images.githubusercontent.com/42190049/194891128-20acce8d-269b-4831-aafa-9678a23bcf42.png)
-![Simulator Screen Shot - iPhone 12 P![Simulator Screen Shot - iPhone 12 Pro - 2022-10-10 at 17 37 14](https://user-images.githubusercontent.com/42190049/194891264-7891c2a5-d071-448a-a014-1df65ec7797c.png)
-ro - 2022-10-10 at 17 36 44](https://user-images.githubusercontent.com/42190049/194891144-420b6497-c466-4a40-bb3c-45474c654f8b.png)
-![Simulator Screen Shot - iPhone 12 ![Simulator Screen Shot - iPhone 12 Pro - 2022-10-10 at 17 37 05](https://user-images.githubusercontent.com/42190049/194891217-b0fbccdd-814b-4a1b-9d22-cc55d4b38fff.png)
-Pro - 2022-10-10 at 17 36 49](https://user-images.githubusercontent.com/4219004![Simulator Screen Shot - iPhone 12 Pro - 2022-10-10 at 17 36 53](https://user-images.githubusercontent.com/42190049/194891180-6d99d0c0-9144-44c0-bace-d68c96753513.png)
-9/194891161-e56a00c7-48b6-4bb7-9209-bed6d9c7532d.png)
+
+![Simulator Screen Shot - iPhone 12 Pro - 2022-10-10 at 17 39 28](https://user-images.githubusercontent.com/42190049/194891736-ae1bb371-e3c2-4250-894d-012835e54d43.png)
+
+![Simulator Screen Shot - iPhone 12 Pro - 2022-10-10 at 17 39 39](https://user-images.githubusercontent.com/42190049/194891784-e14fe977-a3e7-4325-a29d-fffad15ef894.png)
+
+
+![Simulator Screen Shot - iPhone 12 Pro - 2022-10-10 at 17 40 00](https://user-images.githubusercontent.com/42190049/194891855-266362e6-5a84-4e6b-8782-048e7023d7c2.png)
+
+
+![Simulator Screen Shot - iPhone 12 Pro - 2022-10-10 at 17 40 21](https://user-images.githubusercontent.com/42190049/194891931-b69a4502-405f-4108-a72d-b7a043798770.png)
+
+
+![Simulator Screen Shot - iPhone 12 Pro - 2022-10-10 at 17 40 36](https://user-images.githubusercontent.com/42190049/194891998-5cce406a-c1b7-432d-96fc-78d7971c6f3d.png)
+
+
+![Simulator Screen Shot - iPhone 12 Pro - 2022-10-10 at 17 40 53](https://user-images.githubusercontent.com/42190049/194892065-8d3a015b-8a33-4366-98de-64aace7a4058.png)
+
+
+![Simulator Screen Shot - iPhone 12 Pro - 2022-10-10 at 17 41 12](https://user-images.githubusercontent.com/42190049/194892110-20ca7c70-267a-4710-bb06-35ee46fcd669.png)
+
+
+![Simulator Screen Shot - iPhone 12 Pro - 2022-10-10 at 17 41 32](https://user-images.githubusercontent.com/42190049/194892177-f1c3a862-0828-4d04-94f7-6372ffb84026.png)
+
+
+![Simulator Screen Shot - iPhone 12 Pro - 2022-10-10 at 17 41 49](https://user-images.githubusercontent.com/42190049/194892245-047dce86-2b63-4395-8fe1-8321b2b31654.png)
+
+

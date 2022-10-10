@@ -13,7 +13,8 @@ Saudi Culture for iOS built with SwiftUI
 ![Simulator Screen Shot - iPhone 12 Pro - 2022-10-10 at 17 39 39](https://user-images.githubusercontent.com/42190049/194891784-e14fe977-a3e7-4325-a29d-fffad15ef894.png)
 
 
-![Simulator Screen Shot - iPhone 12 Pro - 2022-10-10 at 17 40 00](https://user-images.githubusercontent.com/42190049/194891855-266362e6-5a84-4e6b-8782-048e7023d7c2.png)
+
+![Simulator Screen Shot - iPhone 12 Pro - 2022-10-10 at 19 38 00](https://user-images.githubusercontent.com/42190049/194914309-70d8c5ae-1bb3-4935-a8eb-8e175c602778.png)
 
 
 ![Simulator Screen Shot - iPhone 12 Pro - 2022-10-10 at 17 40 21](https://user-images.githubusercontent.com/42190049/194891931-b69a4502-405f-4108-a72d-b7a043798770.png)
